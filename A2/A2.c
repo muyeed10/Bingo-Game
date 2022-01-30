@@ -1,9 +1,3 @@
-/*GROUP MEMBERS: 
-m85hossa, Hossain, Muyeed, 501035079, Section 8
-zmdawood, Dawood, Zakir, 501022529, Section 5
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
